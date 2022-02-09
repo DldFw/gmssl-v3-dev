@@ -192,6 +192,7 @@ int sm2_algo_selftest(void);
 
 
 #ifdef __cplusplus
-extern "C" {
+//extern "C" {
+}
 #endif
 #endif
